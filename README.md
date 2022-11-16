@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mirzokhidkh
+- 👋 Hi, I’m Mirzokhid
 - 👀 I’m interested in Java, Spring Boot
 - 🌱 I’m currently learning  Web Application and Software Architecture
 - 📫 How to reach me : my telegram account -> @mirzokhid

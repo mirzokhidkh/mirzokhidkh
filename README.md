@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mirzokhid
-- 👀 I’m interested in Java, Spring Boot
-- 🌱 I’m currently learning  Web Application and Software Architecture
+- 👀 I’m interested in creating interesting projects using Java, Spring Boot and solving DSA problems in LeetCode platform
+- 🌱 I’m currently learning things related to Web Application and Software Architecture
 - 📫 How to reach me : my telegram account -> @mirzokhid
 
 <!---
